@@ -1,17 +1,47 @@
 {
-  "Medway": {
-    "general": "2026-01-15",
-    "recycling": "2026-01-22",
-    "garden": "2026-01-29"
-  },
-  "Bristol City": {
-    "general": "2026-02-01",
-    "recycling": "2026-02-08",
-    "garden": "2026-02-15"
-  },
-  "Manchester": {
-    "general": "2026-01-20",
-    "recycling": "2026-01-27",
-    "garden": "2026-02-03"
-  }
+  "Medway": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+
+  "Bristol City": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Manchester": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+
+  "Birmingham": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Leeds": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Sheffield": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Liverpool": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Newcastle upon Tyne": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Nottingham": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Leicester": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Coventry": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Sunderland": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Southampton": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Portsmouth": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Derby": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Plymouth": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Wolverhampton": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Bradford": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+
+  "Kent County Council": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Essex County Council": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Surrey County Council": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Hampshire County Council": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Lancashire County Council": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Staffordshire County Council": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Devon County Council": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Norfolk County Council": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Lincolnshire County Council": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+
+  "Cardiff": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Swansea": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Newport": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Wrexham": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+
+  "Edinburgh": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Glasgow": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Aberdeen": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Dundee": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+
+  "Belfast": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Derry City and Strabane": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Lisburn and Castlereagh": { "general": "TBD", "recycling": "TBD", "garden": "TBD" },
+  "Armagh City, Banbridge and Craigavon": { "general": "TBD", "recycling": "TBD", "garden": "TBD" }
 }
